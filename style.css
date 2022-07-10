@@ -1,0 +1,40 @@
+
+#title {
+    background-image: url(./images/pattern.jpeg);
+    font-size:100px;
+    font-family: Helvetica;
+    font-weight:bold;
+    color:khaki;
+    text-align:center;
+}
+
+.item h2 {
+    
+    font-size:32px;
+    font-family: Helvetica;
+    font-weight:bold;
+    color:white;
+}
+
+#brushes h2{
+    background-color:mediumspringgreen;
+
+}
+
+#frames h2{
+    background-color:lightcoral;
+
+}
+
+#paint h2{
+    background-color:skyblue;
+
+}
+
+.item a {
+    font-size: 15px;
+    font-family: Helvetica;
+    font-weight:bold;
+    color:blue;
+
+}
